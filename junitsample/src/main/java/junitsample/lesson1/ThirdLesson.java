@@ -22,13 +22,17 @@ public class ThirdLesson {
     public int[] SntLessX(int[] array,int x){
         int[] arraySnt=new int[array.length];
         int z=0;
-        for (int i=0;i<=this.array.length;i++){
-            if(SNT(this.array[i])==true&&this.array[i]<x){
-              arraySnt[z]=  this.array[i];
+        for (int t=0;t<this.array.length;t++){
+            if(SNT(this.array[t])==true&&this.array[t]<x){
+              arraySnt[z]=  this.array[t];
               z++;
             }
         }
-        return arraySnt;
+        int[] arrayResult= new int[z];
+        for(int y=0;y<z;y++)    {
+            arrayResult[y]=arraySnt[y];
+        }
+        return arrayResult;
     }
 
 

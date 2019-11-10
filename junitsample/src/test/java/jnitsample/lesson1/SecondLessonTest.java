@@ -4,6 +4,8 @@ package jnitsample.lesson1;
 import junitsample.lesson1.SecondLesson;
 import org.junit.Assert;
 import org.junit.Test;
+import static org.junit.Assert.assertArrayEquals;
+
 
 public class SecondLessonTest {
     @Test

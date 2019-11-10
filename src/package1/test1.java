@@ -1,4 +1,5 @@
 package package1;
+
 import java.util.Scanner;
 public class test1 extends fistprograme {
     public static void main(String[] args){

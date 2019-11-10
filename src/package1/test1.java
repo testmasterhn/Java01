@@ -6,6 +6,7 @@ public class test1 extends fistprograme {
         System.out.print("nhap so X can tim ");
         int x =ss.nextInt();
         int[] array= inputArray();
-        fistprograme.count(array,5);
+        int count=fistprograme.count(array,5);
+        System.out.println("so luong phan tu bang " + x +" la " + count);
     }
 }

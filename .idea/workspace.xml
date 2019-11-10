@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2416c7b4-e89c-412b-886b-9c3abc5bdade" name="Default Changelist" comment="" />
+    <list default="true" id="2416c7b4-e89c-412b-886b-9c3abc5bdade" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junittest/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/junittest/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junittest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junittest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junittest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junittest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junittest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junittest/src/test/java/lesson/lesson1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/junittest/src/test/java/lesson/lesson1Test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +27,14 @@
   </component>
   <component name="ProjectId" id="1TP7IXO83Hdv11FuUSC9zXz9tuN" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/junittest/src/test/java/lesson/lesson1Test.java" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NTN\Documents\GitHub\Java01" />
+      <recent name="C:\Users\NTN\Documents\GitHub" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,7 +100,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,19 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d57a743-6a71-4710-a80f-ecb4ac125585" name="Default Changelist" comment="" />
+    <list default="true" id="a04ed219-e1a3-495c-8067-6d374fb6b92b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../junitsample/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitsample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitsample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitsample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitsample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitsample/junitsample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitsample/src/main/java/junitsample/lesson1/FirstLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitsample/src/test/java/jnitsample/lesson1/FirstLessonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lesson/lesson2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junittest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lesson/lesson1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lesson/lesson1Test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,12 +53,21 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1TPCyjdr43cptwAyueVvwTBX2La" />
+  <component name="ProjectId" id="1TPQm8adNL1ZDXbDZiDnyUbhovt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java01" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lesson" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,37 +81,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.lesson1Test.testCount">
-    <configuration name="lesson1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junittest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="JAR Application.junit-4.12.jar">
+    <configuration name="lesson" type="JUnit" factoryName="JUnit">
       <option name="PACKAGE_NAME" value="lesson" />
       <option name="MAIN_CLASS_NAME" value="lesson.lesson1Test" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson1Test.testCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junittest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="lesson" />
-      <option name="MAIN_CLASS_NAME" value="lesson.lesson1Test" />
-      <option name="METHOD_NAME" value="testCount" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="junit-4.12.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -96,7 +119,7 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="test" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="junittest" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -120,14 +143,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.test" />
-      <item itemvalue="JUnit.lesson1Test" />
-      <item itemvalue="JUnit.lesson1Test.testCount" />
+      <item itemvalue="JUnit.lesson" />
+      <item itemvalue="Maven.junittest" />
+      <item itemvalue="JAR Application.junit-4.12.jar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.lesson1Test.testCount" />
-        <item itemvalue="JUnit.lesson1Test" />
+        <item itemvalue="JAR Application.junit-4.12.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -136,12 +158,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d57a743-6a71-4710-a80f-ecb4ac125585" name="Default Changelist" comment="" />
-      <created>1573352599326</created>
+      <changelist id="a04ed219-e1a3-495c-8067-6d374fb6b92b" name="Default Changelist" comment="" />
+      <created>1573359406143</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573352599326</updated>
+      <updated>1573359406143</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

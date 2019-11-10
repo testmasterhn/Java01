@@ -1,9 +1,14 @@
 package junitsample.lesson1;
 
+import com.sun.jndi.url.ldap.ldapURLContextFactory;
+
 public class SecondLesson {
     int[] array;
     int[] arrayChan;
     int[] arrayLe;
+  public SecondLesson(int[] args){
+        this.array=args;
+  }
     public int[] mangchan(int[] array)
     {
         int x=0,y=0;
@@ -27,3 +32,5 @@ public class SecondLesson {
         return this.arrayLe;
     }
 }
+
+

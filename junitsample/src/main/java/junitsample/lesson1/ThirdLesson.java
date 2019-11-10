@@ -3,6 +3,10 @@ package junitsample.lesson1;
 public class ThirdLesson {
     int[] array;
     int x;
+    public ThirdLesson(int[] args, int i){
+        this.array=args;
+        this.x=i;
+    }
     public  boolean SNT(int n) {
         if (n < 2) {
             return false;

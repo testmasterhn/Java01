@@ -12,5 +12,8 @@ public class FirstLessonTest {
         int x = 0x3;
         FirstLessonTest ls= new FirstLessonTest();
         Assert.assertEquals(3 , FirstLesson.countNumber(array,x));
+
 }
 }
+
+
